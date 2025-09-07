@@ -9,6 +9,7 @@ public class Main {
  // Menampilkan pesan sambutan yang dipersonalisasi
  System.out.println("Selamat Datang di Java, " + nama + "!");
  // Menutup objek scanner
+ // test
  scanner.close();
  }
  }
